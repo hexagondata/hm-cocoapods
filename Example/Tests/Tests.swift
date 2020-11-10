@@ -1,5 +1,5 @@
 import XCTest
-import hexagonmatch-pods
+import hexagonmatch_pods
 
 class Tests: XCTestCase {
     

@@ -1,0 +1,22 @@
+{
+  "name": "hexagonmatch-pods",
+  "version": "0.1.0",
+  "summary": "A short description of hexagonmatch-pods.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/mpatinogu/hexagonmatch-pods",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "mpatinogu": "admin@hexagondata.io"
+  },
+  "source": {
+    "git": "https://github.com/mpatinogu/hexagonmatch-pods.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "hexagonmatch-pods/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module hexagonmatch_pods {
+  umbrella header "hexagonmatch-pods-umbrella.h"
+
+  export *
+  module * { export * }
+}
