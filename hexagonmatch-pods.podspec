@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'hexagonmatch-pods'
-  s.version          = '0.1.0'
+  s.version          = '1.0.0'
   s.summary          = 'Hexagon Match Platform iOS SDK Cocoapods'
 
 # This description is used to generate tags and improve search results.

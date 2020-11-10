@@ -9,7 +9,7 @@
 #endif
 #endif
 #endif
-#import hexagonmatchpods
+import hexagonmatchpods
 
 FOUNDATION_EXPORT double hexagonmatch_podsVersionNumber;
 FOUNDATION_EXPORT const unsigned char hexagonmatch_podsVersionString[];
